@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "107677523734",
+    "firebase_url": "https://vanilla-74e62.firebaseio.com",
+    "project_id": "vanilla-74e62",
+    "storage_bucket": "vanilla-74e62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107677523734:android:a8b5516a8e77453e7f7a37",
+        "android_client_info": {
+          "package_name": "com.vanilla.vanillabakery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107677523734-iogrfduh2rfflcjsvjaeotudc9rv30om.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vanilla.vanillabakery",
+            "certificate_hash": "5262432d8eb7e2315e9a693857c7de904c36da91"
+          }
+        },
+        {
+          "client_id": "107677523734-2ks92tagu4g9itsa201f79cfv5dk7aaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAk3JRiPIXqomPrMvDyE4i2MXWh1QImS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107677523734-2ks92tagu4g9itsa201f79cfv5dk7aaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
